@@ -9,5 +9,5 @@
 
 ![RAGE Engine](https://img.shields.io/badge/RAGE_Engine_Enjoyer-131313?logo=rockstargames&logoColor=white)
 
-![Euphoria Engine Enjoyer](https://img.shields.io/badge/Euphoria_Engine_Enjoyer-131313?logo=https://www.gta4.net/news/3966/euphoria-logo.png)
-![#1 NaturalMotion Lover](https://img.shields.io/badge/%231_NaturalMotion_Lover-131313?logo=https://www.playstationlifestyle.net/wp-content/uploads/2010/02/naturalmotion-logo.png)
+![Euphoria Engine Enjoyer](https://img.shields.io/badge/Euphoria_Engine_Enjoyer-131313?logo=YOUR_UPLOADED_EUPHORIA_IMAGE_URL)
+![#1 NaturalMotion Lover](https://img.shields.io/badge/%231_NaturalMotion_Lover-131313?logo=YOUR_UPLOADED_NATURALMOTION_IMAGE_URL)
