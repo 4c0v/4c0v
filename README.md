@@ -1,1 +1,1 @@
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Confederalist&bg_color=131313&color=ffffff&line=39d353&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Confederalist's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Confederalist&bg_color=131313&color=ffffff&line=39d353&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
