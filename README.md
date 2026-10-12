@@ -8,4 +8,5 @@
 ![4,344 Hours Wasted On Euphoria!](https://img.shields.io/badge/-4%2C344%20Hours%20Wasted%20On%20Euphoria-131313) 
 
 ![RAGE Engine](https://img.shields.io/badge/RAGE_Engine-131313?logo=rockstargames&logoColor=white)
-![Euphoria Engine Enjoyer](https://img.shields.io/badge/Euphoria_Physics-131313?logoColor=white)
+
+![Euphoria Engine Enjoyer!](https://img.shields.io/badge/Euphoria_Physics-131313?logoColor=white)
