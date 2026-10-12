@@ -7,8 +7,8 @@
 
 ![4,344 Hours Wasted On Euphoria!](https://img.shields.io/badge/-4%2C344%20Hours%20Wasted%20On%20Euphoria-131313) 
 
-![RAGE Engine Enjoyer](https://img.shields.io/badge/RAGE_Engine-131313?logo=rockstargames&logoColor=white)
+![RAGE Engine](https://img.shields.io/badge/RAGE_Engine_Enjoyer-131313?logo=rockstargames&logoColor=white)
 
-![Euphoria Engine Enjoyer](https://img.shields.io/badge/Euphoria-131313?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTExIDdhMSAxIDAgMSAwIDIgMCBhMSAxIDAgMSAwIC0yIDBNSDggczIgMiA0IDJzNCAtMiA0IC0yTTEyIDEydjZNOSA4bDMgNE0xNSA4bC0zIDQiLz48L3N2Zz4=&logoColor=white)
+![Euphoria Engine](https://img.shields.io/badge/Euphoria_Engine_Enjoyer-131313?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIjo8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjwvc3ZnPg==&logoColor=white)
 
-![#1 NaturalMotion Lover](https://img.shields.io/badge/Euphoria_Physics-131313?logo=gameandwatch&logoColor=white)
+![NaturalMotion](https://img.shields.io/badge/%231_NaturalMotion_Lover-131313?logoColor=white)
