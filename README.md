@@ -1,1 +1,4 @@
-[![Confederalist's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Confederalist&bg_color=131313&color=ffffff&line=39d353&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
