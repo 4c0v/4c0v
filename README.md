@@ -15,6 +15,4 @@
 
 ![Swingset Glitch Survivor](https://img.shields.io/badge/Swingset_Glitch_Survivor-131313?logo=rockstargames&logoColor=white)
 
-![GTA IV Physics > GTA V Physics](https://img.shields.io/badge/GTA_IV_Physics_%3E_GTA_V_Physics-131313?logo=rockstargames&logoColor=white)
-
 ![Procedural Animation Connoisseur](https://img.shields.io/badge/Procedural_Animation_Connoisseur-131313?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJtMTIgMi0yIDRoNC0ybC0yIDQiLz48L3N2Zz4=)
