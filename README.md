@@ -6,8 +6,6 @@
 ![Vulkan](https://img.shields.io/badge/Vulkan-131313?logo=vulkan&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-131313?logo=opengl&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-131313?logo=cmake&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-131313?logo=linux&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-131313?logo=neovim&logoColor=white)
 
 ![4,344 Hours Wasted On Euphoria!](https://img.shields.io/badge/-4%2C344%20Hours%20Wasted%20On%20Euphoria-131313) 
 
