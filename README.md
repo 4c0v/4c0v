@@ -7,7 +7,7 @@
 ![OpenGL](https://img.shields.io/badge/OpenGL-131313?logo=opengl&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-131313?logo=cmake&logoColor=white)
 
-![4,688 Hours Wasted On Euphoria!](https://img.shields.io/badge/-4%2C688%20Hours%20Wasted%20On%20Euphoria-131313)
+![5,303 Hours Wasted On Euphoria!](https://img.shields.io/badge/-5%2C303%20Hours%20Wasted%20On%20Euphoria-131313)
 
 ![RAGE Engine](https://img.shields.io/badge/RAGE_Engine_Enjoyer-131313?logo=rockstargames&logoColor=white)
 
